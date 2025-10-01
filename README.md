@@ -11,3 +11,7 @@ It demonstrates my ability to create, optimize, and apply prompts in practical s
 
 ## Goal
 Build a freelance-ready portfolio showcasing my Prompt Engineering skills.
+
+## Progress
+- **Day 1:** Warm-up prompts in Bulgarian (initial practice).  
+- From Day 2 onward – all prompts will be written in English.
