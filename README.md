@@ -17,3 +17,9 @@ Build a freelance-ready portfolio showcasing my Prompt Engineering skills.
 - From Day 2 onward – all prompts will be written in English.
 
 Day 2: CRISPE method prompts in English, mini video demo created.
+Video Demo:
+- Recorded Day 2 prompts in action.
+- Used prompt 1 (Blog Post) as main example.
+- Highlighted Context, Role, Instruction while scrolling.
+- Voice-over generated with AI (English).
+- Uploaded to videos/ folder in repo.
