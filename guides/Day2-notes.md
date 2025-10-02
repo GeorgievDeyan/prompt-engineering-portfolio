@@ -1,4 +1,4 @@
-гледане на клип: https://www.youtube.com/watch?v=P08jrZhyNxw
+Гледане на клип: https://www.youtube.com/watch?v=P08jrZhyNxw
 
 ##CRISPE method:
 
