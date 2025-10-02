@@ -1,4 +1,4 @@
-# Day 1 Prompts
+# Day 2 Prompts
 
 ## Prompt 1 – Blog Post Writer (CRISPE method)
 Context: You are helping a new education startup create content.  
